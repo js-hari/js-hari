@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Bhajan Singh</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 💬 Ask me about **react, node, django,typescript**
+- 💬 Ask me about **react, node, django,typescript, CSS3, Bootsrap,Git, UI/UX**
 
 - 📫 How to reach me **hbsingh722@gmail.com**
 
