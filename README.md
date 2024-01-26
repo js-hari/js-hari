@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hari Bhajan Sing</h1>
+<h1 align="center">Hi 👋, I'm Hari </h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 - 💬 Ask me about **react, node, django,typescript, CSS3, Bootsrap,Git, UI/UX, Generative AI using LLM's**
