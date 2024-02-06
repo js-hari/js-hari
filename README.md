@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 💬 Ask me about **react, node, django**
+- 💬 Ask me about **react.js, node, django,Python **
 
 - 📫 How to reach me **hbsingh722@gmail.com**
 
