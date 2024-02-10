@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Hari 👋 </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 💬 Ask me about **react.js, **
+- 💬 Ask me about **Frontend, Backend, Full Stack and Cloud Computing.**
 
 - 📫 How to reach me **hbsingh722@gmail.com**
 
