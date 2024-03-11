@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Hari👋 </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 💬 Ask me about **React.Js,Next.Js, Node.Js, TypeScript and Full Stack Development.**
+- 💬 Ask me about **React.Js,Next.Js, Node.Js and Full Stack Development.**
 
 - 📫 How to reach me ** hbsingh722@gmail.com **
 
